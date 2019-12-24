@@ -32,17 +32,8 @@ flutter:
   # To add more than one images, we need not have to require to give all the name of the picture we want to add.
   # Instead we can refer to that folder by: Images/*
   # Font Assets
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
-  #   - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
-  #
-  # For details regarding fonts from package dependencies,
-  # see https://flutter.dev/custom-fonts/#from-packages
+  fonts:
+    - family: CourierPrime-Regular
+      fonts:
+        - asset: Fonts/CourierPrime-Regular.ttf
+  # Like wise, if want to add more than one Font, we can use the syntax we've used for Images as well by Fonts/*
