@@ -27,7 +27,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   # Image Assets
   assets:
-    - Images/Google-flutter-logo.png
+    - images/Google-flutter-logo.png
   #  - images/a_dot_ham.jpeg
   # To add more than one images, we need not have to require to give all the name of the picture we want to add.
   # Instead we can refer to that folder by: Images/*
@@ -35,5 +35,5 @@ flutter:
   fonts:
     - family: CourierPrime-Regular
       fonts:
-        - asset: Fonts/CourierPrime-Regular.ttf
+        - asset: fonts/CourierPrime-Regular.ttf
   # Like wise, if want to add more than one Font, we can use the syntax we've used for Images as well by Fonts/*
